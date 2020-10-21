@@ -43,6 +43,7 @@ document.getElementById("hover").onmouseover = function()
 {
     this.classList.remove(...this.classList);
     this.classList.add("btn","btn-secondary");
+    alert("Button will change to grey");
 }
 
 document.getElementById("alert").onclick = function() 
