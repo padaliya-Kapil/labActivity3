@@ -1,0 +1,10 @@
+.container {
+    margin : 2em auto;
+
+    text-align: center;
+}
+
+.row div,button{
+    margin-left: 10px ;
+    margin-right: 10px;
+}
